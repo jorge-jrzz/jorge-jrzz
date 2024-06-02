@@ -81,13 +81,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-jrzz&layout=compact&hide=ShaderLab,VHDLhide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-jrzz&layout=compact&hide=ShaderLab,VHDL" height="150" alt="languages graph"  />
 </div>
 
 ### Spotify Playing 🎧
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/wb865v2i06mcafbr2eggx3ip9">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wb865v2i06mcafbr2eggx3ip9&count=5" alt="Spotify recently played"  />
   </a>
