@@ -11,27 +11,28 @@
 
 - 💬 Ask me about **Python and data structures**
 
-<!-- <h3 align="left">Connect with me:</h3> -->
 <div align="center">
-  <a href="https://linkedin.com/in/jorge-jrzz" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  style="margin: 10px;"/>
+  <a href="https://linkedin.com/in/jorge-jrzz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@jorgejrzz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968906.png" height="30" alt="medium logo" style="margin: 10px;"/>
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCOAgRIJ3F5t4WG0cQxnwxnQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="30" alt="youtube logo" style="margin: 10px;"/>
+  <a href="https://www.youtube.com/@jorge-jrzz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/jorgejrzz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30"  alt="instagram logo" style="margin: 10px;"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833AB4&logoColor=white&labelColor=C13584&style=flat" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/jorge_jrzz" target="_blank">
-    <img src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg?w=740&t=st=1720672505~exp=1720673105~hmac=f62e4f85c0b4c51f9dd15380b62f87d756f1d40ca60098d119c2dfc7e7eb312c" height="30" alt="twitter logo" style="margin: 10px;"/>
+  <a href="https://x.com/jorge_jrzz" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" alt="twitter logo"  />
   </a>
   <a href="https://t.me/BAZKETO" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="30" alt="telegram logo" style="margin: 10px;"/>
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
   </a>
 </div>
+
+###
 
 ### Languages
 
