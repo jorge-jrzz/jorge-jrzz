@@ -3,13 +3,11 @@
 
 - 👨🏽‍🎓 I am currently studying computer engineering at the **UAM Cuajimalpa**
 
-- 🔭 I’m currently working on [STDY](https://www.stdyelling.com/)
+- 🔭 I’m currently working on [Banorte | El Banco Fuerte de México](https://www.banorte.com/).
 
 - 🌱 I’m currently learning **Artificial intelligence with Python**
 
 - 👨‍💻 All my projects are available here on GitHub
-
-- 💬 Ask me about **Python and data structures**
 
 <div align="center">
   <a href="https://linkedin.com/in/jorge-jrzz" target="_blank">
@@ -101,32 +99,14 @@
 ###
 
 <h2 align="left">Projects</h2>
+<div align="center">
 <a href="https://github.com/jorge-jrzz/Pynani">
 <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=jorge-jrzz&repo=Pynani" alt="Pynani"/>
 </a>
+</br>
 <a href="https://github.com/jorge-jrzz/ear_segmentation">
 <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=jorge-jrzz&repo=ear_segmentation" alt="Ear Segmentation"/>
 </a>
-
-###
-
-<br>
-
----
-
-<h3 align="center">Spotify Playing 🎧</h3>
-<div align="center">
-  <a href="https://open.spotify.com/user/wb865v2i06mcafbr2eggx3ip9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wb865v2i06mcafbr2eggx3ip9&count=5" alt="Spotify recently played" width=50%/>
-  </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorge-jrzz/jorge-jrzz/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorge-jrzz/jorge-jrzz/snake/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jorge-jrzz/jorge-jrzz/snake/github-contribution-grid-snake.svg">
-</picture>
 
 ###
