@@ -1,6 +1,6 @@
 <h2 align="left">👤 About me</h2>
 
-<img align="right" width="230" src="./assets/dev.gif" alt="Developer GIF"/>
+<img align="right" width="290" src="./assets/dev.gif" alt="Developer GIF"/>
 
 ```python
 class Jorge():
