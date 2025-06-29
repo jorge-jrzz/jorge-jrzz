@@ -51,7 +51,7 @@ class Jorge():
 ![My Skills](https://skillicons.dev/icons?i=python,java,js,dart,c,bash,aws,azure,gcp,mysql,mongodb,sqlite,redis,linux,docker,git,github,githubactions,react,flutter,spring,flask,latex,vscode,vite,vercel,raspberrypi,figma)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-jrzz&layout=compact&hide=ShaderLab,VHDL,c%23" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-jrzz&layout=compact&hide=ShaderLab,VHDL,c%23,jupyter%20notebook" alt="languages graph"/>
 </div>
 
 <br>
