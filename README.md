@@ -82,8 +82,11 @@ class Jorge():
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorge-jrzz&repo=zolkin-backend" />
   </a>
 
-  <h3>🏊🏽‍♂️ Best Hackathon</h3>
-  <a href="https://github.com/jorge-jrzz/Hackathon_SmartNorte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorge-jrzz&repo=Hackathon_SmartNorte" />
+  <h3>🏊🏽‍♂️ Bests Hackathons</h3>
+  <a href="https://github.com/jorge-jrzz/SmartNorte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorge-jrzz&repo=SmartNorte" />
+  </a>
+  <a href="https://github.com/jorge-jrzz/Paguito">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorge-jrzz&repo=Paguito" />
   </a>
 </div>
