@@ -1,18 +1,9 @@
-<h2 align="left">👤 About me</h2>
-
-<div align="center">
-  <img width="310" src="./assets/dev.gif" alt="Developer GIF"/>
-</div>
-
-```python
-class Jorge():
-    def __init__(self):
-        self._name = "Jorge Juárez"
-        self._nickname = "Yorch"
-        self.rol = "Software Engineer"
-        self.location = "Mexico City"
-        self.current_company = "Banorte"
-```
+<a href="https://github.com/jorge-jrzz/jorge-jrzz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorge-jrzz/jorge-jrzz/refs/heads/main/assets/dark_mode.svg">
+    <img alt="Jorge Juárez's GitHub Profile README" src="https://raw.githubusercontent.com/jorge-jrzz/jorge-jrzz/refs/heads/main/assets/light_mode.svg">
+  </picture>
+</a>
 
 <br>
 
